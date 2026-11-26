@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+python-dotenv
+google-genai
+groq
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+langdetect
+pypdf
+sqlalchemy
+httpx
+pytest
